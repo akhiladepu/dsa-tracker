@@ -1,0 +1,6 @@
+[submodule "dsa-tracker-frontend"]
+	path = dsa-tracker-frontend
+	url = https://github.com/masai14/dsa-tracker-frontend.git
+[submodule "dsa-tracker-backend"]
+	path = dsa-tracker-backend
+	url = https://github.com/masai14/dsa-tracker-backend.git
